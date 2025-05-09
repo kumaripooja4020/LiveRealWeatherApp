@@ -88,5 +88,3 @@ This project uses the OpenWeather API for weather data. Ensure you comply with O
 
 ---
 
-Created with ❤️ by Manjunath R
-🌤️ Weather data provided by OpenWeather API
