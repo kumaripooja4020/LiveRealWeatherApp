@@ -82,9 +82,5 @@ This project uses the OpenWeather API for weather data. Ensure you comply with O
 
 ## Screenshots
 
-- ![Screenshot 1](https://github.com/user-attachments/assets/797bb152-e998-423b-9d15-bad282541ed5)
-- ![Screenshot 2](https://github.com/user-attachments/assets/45448916-2079-49f4-914a-f70365b4696b)
-- ![Screenshot 3](https://github.com/user-attachments/assets/042b184e-ecca-476a-9dd7-baabdc113d57)
-
 ---
 
